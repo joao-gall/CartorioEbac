@@ -130,6 +130,7 @@ int main()
 		printf("\t1- registrar nomes\n");
 		printf("\t2- consultar nomes\n");
 		printf("\t3- deletar nomes\n");
+		printf("\t4- sair do sistema\n\n");
 		printf("\nopcao");
 	
 		scanf("%d", &opcao); //scaner para a escolha do usuario
